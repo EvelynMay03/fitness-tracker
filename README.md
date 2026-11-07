@@ -25,6 +25,17 @@ Through this project, I gained practical experience in C# programming, ASP.NET w
 - Fitness progress monitoring
 - Database integration for storing user activities and goals
 
+## Project Screenshots
+
+### Activity Tracking
+![Activity Tracking](screenshots/activities.png)
+
+### Fitness Progress
+![Fitness Progress](screenshots/progess.png)
+
+### Goal Tracking
+![Goal Tracking](screenshots/goal.png)
+
 ## How to Run
 
 1. Open the `.sln` file in a compatible version of Visual Studio on Windows.
